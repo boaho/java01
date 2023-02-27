@@ -2,6 +2,7 @@ package kr.or.ksmart.A;
 public class AA01 {
 	public static void main(String[] args) {
 		// 메서드 호출 (작성순서 2번) (실행순서1번)
+		// 두번째 커밋
 		a();
 		a();
 		b();
